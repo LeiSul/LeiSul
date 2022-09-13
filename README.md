@@ -3,7 +3,7 @@
     width="35"
     height="35"
     src="https://cdn-icons-png.flaticon.com/512/7766/7766784.png"
-    <u>  Currently finishing up my Data Analytics Bootcamp with CRWU</u>
+    <u>  Recent grad from the Data Analytics Bootcamp with CRWU</u>
   
 </p> 
 <p align="left">
